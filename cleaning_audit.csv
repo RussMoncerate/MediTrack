@@ -1,0 +1,8 @@
+cleaning_step,rows_after_step,columns_after_step,remarks
+Raw dataset imported,18000,25,Original CSV file loaded from data/raw folder
+Column names standardized,18000,25,Column names converted to snake_case format
+Missing values checked,18000,25,Missing value summary generated
+Duplicate records removed,18000,26,Duplicate records removed: 0
+Data types converted,18000,26,Categorical variables converted to factor type
+Readmission category created,18000,26,Readmission category added for clearer analysis
+Final cleaned dataset saved,18000,26,Cleaned dataset exported to data/processed folder

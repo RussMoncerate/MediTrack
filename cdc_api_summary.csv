@@ -1,0 +1,2 @@
+dataset_name,api_endpoint,topic_requested,location_requested,rows,columns,acquisition_method,error_handling,date_loaded
+CDC Chronic Disease Indicators Live API,https://data.cdc.gov/resource/hksd-2xuw.json,Diabetes,United States,426,7,Live API request using httr2,tryCatch used to prevent script failure,2026-06-15

@@ -1,0 +1,2 @@
+dataset_name,file_name,source_type,rows,columns,date_loaded
+U.S. Chronic Disease Indicators,U.S._Chronic_Disease_Indicators.csv,CDC static CSV backup,398793,34,2026-06-15
